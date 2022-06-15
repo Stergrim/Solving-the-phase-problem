@@ -40,7 +40,7 @@
 
 <p float="left">
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="300" />
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="350" /> 
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="380" /> 
 </p>
 
 СКО изображений **1,18** пикселя, погрешность восстановления волнового фронта **0,12%**.

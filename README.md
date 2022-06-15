@@ -25,19 +25,19 @@
 
 Пример исходного изображения:
 
-<figure  class="third">
+</figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/GroundTruthModelVisual.png" width="250"/>
 </figure>
 
 Изображение с которого начинается расчёт и восстановленное изображение:
 
-<figure  class="third">
+</figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="250"/>
 </figure>
 
 Матраца разности изображений, максимум на изображении равен **4**, и восстановленный волновой фронт:
 
-<figure  class="third">
+</figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="250"/>
 </figure>
 
@@ -48,19 +48,19 @@
 Стенд для получения изображений:<br>
 1 – источник излучения; 2 – конденсор; 3 – тест-объект; 4 – объектив коллиматора; 5 – исследуемый объектив; 6 – система регистрации изображения; 7 – поворотный узел; 8 – светозащитный чехол.
 
-<figure  class="third">
+</figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentalSetup.png" width="700"/>
 </figure>
 
 Полученные со стенда изображения, под углом в **5** и **10** градусов к оптической оси исследуемого объектива:
 
-<figure  class="third">
+</figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentReal.png" width="550"/>
 </figure>
 
 Теоретические изображения, рассчитанные в ***Zemax***:
 
-<figure  class="third">
+</figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentTheor.png" width="550"/>
 </figure>
 
@@ -68,7 +68,7 @@
 
 Восстановленные волновые фронты:
 
-<figure  class="third">
+</figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentWaveFronts.png" width="700"/>
 </figure>
 

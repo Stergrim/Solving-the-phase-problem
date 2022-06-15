@@ -26,28 +26,29 @@
 Пример исходного изображения:
 
 <figure>
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/GroundTruthModelVisual.png" width="250"/>
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/GroundTruthModelVisual.png" width="350"/>
 </figure>
 
 Изображение с которого начинается расчёт и восстановленное изображение:
 
 <p float="left">
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="250" />
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="250" /> 
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="350" />
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="350" /> 
 </p>
 
 Матраца разности изображений, максимум на изображении равен **4**, и восстановленный волновой фронт:
 
-<figure>
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="250"/>
-</figure>
+<p float="left">
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="350" />
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="350" /> 
+</p>
 
 СКО изображений **1,18** пикселя, погрешность восстановления волнового фронта **0,12%**.
 
 ## Результаты решения на реальных изображениях
 
 Стенд для получения изображений:<br>
-1 – источник излучения; 2 – конденсор; 3 – тест-объект; 4 – объектив коллиматора; 5 – исследуемый объектив; 6 – система регистрации изображения; 7 – поворотный узел; 8 – светозащитный чехол.
+*1 – источник излучения; 2 – конденсор; 3 – тест-объект; 4 – объектив коллиматора; 5 – исследуемый объектив; 6 – система регистрации изображения; 7 – поворотный узел; 8 – светозащитный чехол.*
 
 <figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentalSetup.png" width="700"/>

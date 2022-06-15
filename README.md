@@ -32,13 +32,13 @@
 Изображение с которого начинается расчёт и восстановленное изображение:
 
 <figure  class="third">
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="250"/>
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="250"/> <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="250"/>
 </figure>
 
 Матраца разности изображений, максимум на изображении равен 4, и восстановленный волновой фронт:
 
 <figure  class="third">
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="250"/>
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="250"/> <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="250"/>
 </figure>
 
 СКО изображений 1,18 пикселя, погрешность восстановления волнового фронта 0,12%.
@@ -55,13 +55,13 @@
 Полученные со стенда изображения, под углом в 5 и 10 градусов к оптической оси исследуемого объектива:
 
 <figure  class="third">
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentReal.png" width="700"/>
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentReal.png" width="550"/>
 </figure>
 
 Теоретические изображения, рассчитанные в Zemax:
 
 <figure  class="third">
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentTheor.png" width="700"/>
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentTheor.png" width="550"/>
 </figure>
 
 Теоретические изображения использовались в качестве начального приближения и в результате расчёта MSD составил 1,09 и 1,17 пикселя. <br>

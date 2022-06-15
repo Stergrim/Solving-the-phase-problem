@@ -31,14 +31,10 @@
 
 Изображение с которого начинается расчёт и восстановленное изображение:
 
-A | B
-- | - 
-![alt](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png) | ![alt](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png)
-
-
-<figure>
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="250"/>
-</figure>
+<p float="left">
+  <img src="[/img1.png](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png)" width="250" />
+  <img src="[/img2.png](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png)" width="250" /> 
+</p>
 
 Матраца разности изображений, максимум на изображении равен **4**, и восстановленный волновой фронт:
 

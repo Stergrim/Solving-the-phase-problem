@@ -31,10 +31,11 @@
 
 Изображение с которого начинается расчёт и восстановленное изображение:
 
-<tr>
-<td> <img src="[Nordic_trails.jpg](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png)" style="width: 250px;"/> </td>
-<td> <img src="[Nordic_trails.jpg](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png)" style="width: 250px;"/> </td>
-</tr>
+<table><tr>
+<td> <img src="[Nordic_trails.jpg](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png)" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="[Nordic_trails.jpg](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png)" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
+
 
 <figure>
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="250"/>

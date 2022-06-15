@@ -29,3 +29,54 @@
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/GroundTruthModelVisual.png" width="250"/>
 </figure>
 
+Изображение с которого начинается расчёт и восстановленное изображение:
+
+<figure  class="third">
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="280"/>
+</figure>
+
+Матраца разности изображений, максимум на изображении равен 4, и восстановленный волновой фронт:
+
+<figure  class="third">
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="250"/>     <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="280"/>
+</figure>
+
+СКО изображений 1,18 пикселя, погрешность восстановления волнового фронта 0,12%.
+
+## Результаты решения на реальных изображениях
+
+Стенд для получения изображений:<br>
+1 – источник излучения; 2 – конденсор; 3 – тест-объект; 4 – объектив коллиматора; 5 – исследуемый объектив; 6 – система регистрации изображения; 7 – поворотный узел; 8 – светозащитный чехол.
+
+<figure  class="third">
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentalSetup.png" width="250"/>
+</figure>
+
+Полученные со стенда изображения, под углом в 5 и 10 градусов к оптической оси исследуемого объектива:
+
+<figure  class="third">
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentReal.png" width="250"/>
+</figure>
+
+Теоретические изображения, рассчитанные в Zemax:
+
+<figure  class="third">
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentTheor.png" width="250"/>
+</figure>
+
+Теоретические изображения использовались в качестве начального приближения и в результате расчёта MSD составил 1,09 и 1,17 пикселя. <br>
+
+Восстановленные волновые фронты:
+
+<figure  class="third">
+<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentWaveFronts.png" width="250"/>
+</figure>
+
+## Замечания
+
+К решению этой задачи я подходил, совершенно ничего не зная о программировании, и поэтому весь код написан довольно неуклюже и просто, без использования подходов ООП и ФП.
+Минусами моей реализации являются:
+1.	Много параметров, которые необходимо задать для начала расчёта и из-за отсутствия наглядности (визуализации) можно запутаться в последовательности действий для запуска.
+2.	Время расчёта. Как минимум можно значительно сократить время расчёта, если в функции DirectTask рассчитывать распределение интенсивности не напрямую, а через преобразование Фурье. <br>
+
+Буду рад аргументированной критике моего решения и советам по улучшению программы.

@@ -36,14 +36,14 @@
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="300" /> 
 </p>
 
-Матраца разности изображений, максимум на изображении равен **4**, и восстановленный волновой фронт:
+Матраца разности изображений, максимум на изображении равен **3**, и восстановленный волновой фронт:
 
 <p float="left">
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="300" />
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="400" /> 
 </p>
 
-**СКО** изображений **1,18** пикселя, погрешность восстановления волнового фронта **0,12%**.
+**СКО** изображений **0,30** пикселя, средняя погрешность восстановления волнового фронта **0,08%**, максмальная погрешность в отдельной точке **0,26%**
 
 ## Результаты решения на реальных изображениях
 

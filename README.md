@@ -36,7 +36,7 @@
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="300" /> 
 </p>
 
-Матраца разности изображений, максимум на изображении равен **3**, и восстановленный волновой фронт:
+Матрица разности изображений, максимум на изображении равен **3**, и восстановленный волновой фронт:
 
 <p float="left">
 <img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="300" />

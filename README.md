@@ -13,9 +13,9 @@
 
 Бакалаврская работа:<br>
 
-Находится в папке `demos` под названием [**DiplomaBachelor.pdf**](demos/DiplomaBachelor.pdf) <br>
-[**Google Disk:**](https://drive.google.com/file/d/10HKgejvoL49USyzA6oxwIyHwyJ5L9aMx/view?usp=sharing) <br>
-[**ЯндексДиск:**](https://disk.yandex.ru/i/R19TsmHZzovZfg)
+Находится в папке `demos` под названием [**DiplomaBachelor.pdf**](demos/DiplomaBachelor.pdf) или <br>
+[**Google Disk**](https://drive.google.com/file/d/10HKgejvoL49USyzA6oxwIyHwyJ5L9aMx/view?usp=sharing) <br>
+[**ЯндексДиск**](https://disk.yandex.ru/i/R19TsmHZzovZfg)
 
 ## Тестирование
 

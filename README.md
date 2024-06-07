@@ -13,34 +13,34 @@
 
 Бакалаврская работа:<br>
 
-Находится в папке `demos` под названием **DiplomaBachelor.pdf** <br>
-**Google Disk:** https://drive.google.com/file/d/10HKgejvoL49USyzA6oxwIyHwyJ5L9aMx/view?usp=sharing <br>
-**ЯндексДиск:** https://disk.yandex.ru/i/R19TsmHZzovZfg
+Находится в папке `demos` под названием [**DiplomaBachelor.pdf**](demos/DiplomaBachelor.pdf) <br>
+[**Google Disk:**](https://drive.google.com/file/d/10HKgejvoL49USyzA6oxwIyHwyJ5L9aMx/view?usp=sharing) <br>
+[**ЯндексДиск:**](https://disk.yandex.ru/i/R19TsmHZzovZfg)
 
 ## Тестирование
 
-Подробное описание запуска программы и пример изображения представлен в папке `demos` в файле [README](https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/README.md)
+Подробное описание запуска программы и пример изображения представлен в папке `demos` в файле [README](demos/README.md)
 
 ## Результаты проверки решения на синтезированных изображениях
 
 Пример исходного изображения:
 
 <figure>
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/GroundTruthModelVisual.png" width="300"/>
+<img src="demos/GroundTruthModelVisual.png" width="300"/>
 </figure>
 
 Изображение с которого начинается расчёт и восстановленное изображение:
 
 <p float="left">
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/StartModelVisual.png" width="300" />
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/RestoredModelVisual.png" width="300" /> 
+<img src="demos/StartModelVisual.png" width="300" />
+<img src="demos/RestoredModelVisual.png" width="300" /> 
 </p>
 
 Матрица разности изображений, максимум на изображении равен **3**, и восстановленный волновой фронт:
 
 <p float="left">
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/DifferenceModelVisual.png" width="300" />
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/WaveFrontModelVisual.png" width="400" /> 
+<img src="demos/DifferenceModelVisual.png" width="300" />
+<img src="demos/WaveFrontModelVisual.png" width="400" /> 
 </p>
 
 **СКО** изображений **0,30** пикселя, средняя погрешность восстановления волнового фронта **0,08%**, максмальная погрешность в отдельной точке **0,26%**
@@ -51,19 +51,19 @@
 *1 – источник излучения; 2 – конденсор; 3 – тест-объект; 4 – объектив коллиматора; 5 – исследуемый объектив; 6 – система регистрации изображения; 7 – поворотный узел; 8 – светозащитный чехол.*
 
 <figure>
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentalSetup.png" width="700"/>
+<img src="demos/ExperimentalSetup.png" width="700"/>
 </figure>
 
 Полученные со стенда изображения, под углом в **5** и **10** градусов к оптической оси исследуемого объектива:
 
 <figure>
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentReal.png" width="550"/>
+<img src="demos/ExperimentReal.png" width="550"/>
 </figure>
 
 Теоретические изображения, рассчитанные в ***Zemax***:
 
 <figure>
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentTheor.png" width="550"/>
+<img src="demos/ExperimentTheor.png" width="550"/>
 </figure>
 
 Теоретические изображения использовались в качестве начального приближения и в результате расчёта **СКО** составил **1,09** и **1,17** пикселя. <br>
@@ -71,7 +71,7 @@
 Восстановленные волновые фронты:
 
 <figure>
-<img src="https://github.com/Stergrim/Solving-the-phase-problem/blob/main/demos/ExperimentWaveFronts.png" width="700"/>
+<img src="demos/ExperimentWaveFronts.png" width="700"/>
 </figure>
 
 ## Замечания
